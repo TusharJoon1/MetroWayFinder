@@ -1,5 +1,5 @@
 
-# MetroWayFinder
+# MetroRouteFinder
 
 The Metro Route Finder is a software application designed to assist commuters in finding the shortest route and calculating fares between two metro stations in a metro network. This application utilizes graph and heap data structures to represent the metro network, where nodes represent metro stations and edges represent connections between stations.
 
